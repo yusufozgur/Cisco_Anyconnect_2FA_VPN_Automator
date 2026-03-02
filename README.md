@@ -13,13 +13,14 @@ Cisco has an interactive cli tool called vpn, after installing cisco anyconnect,
 ## Setting up
 
 1. Download KeePassXC and Cisco Anyconnect, create an entry in KeePassXC with you uni id, password and set up OTP.
+
 2. Clone this repository
 
 ```
 git clone ...
 ```
 
-3. Setup the config file, its default values reflect my use case, just change the strings between the quotations.
+3. Setup the config file (vpn_config.env), its default values reflect my use case, just change the strings between the quotations.
 
 ```
 # This is the database file for KeePassXC.
