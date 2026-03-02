@@ -41,3 +41,8 @@ ln -sf "$(pwd)/activatevpn.bash" ~/.local/bin/activatevpn
 ln -sf "$(pwd)/deactivatevpn.bash" ~/.local/bin/deactivatevpn
 ln -sf "$(pwd)/vpn_config.env" ~/.local/bin/vpn_config.env
 ```
+Then the usage becomes
+```
+activatevpn
+deactivatevpn
+```
