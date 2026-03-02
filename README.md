@@ -17,7 +17,8 @@ Cisco has an interactive cli tool called vpn, after installing cisco anyconnect,
 2. Clone this repository
 
 ```
-git clone ...
+git clone https://github.com/yusufozgur/Cisco_Anyconnect_2FA_VPN_Automator
+cd Cisco_Anyconnect_2FA_VPN_Automator
 ```
 
 3. Setup the config file (vpn_config.env), its default values reflect my use case, just change the strings between the quotations.
