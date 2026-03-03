@@ -39,6 +39,7 @@ VPN_CLIENT="/opt/cisco/secureclient/bin/vpn"
 ```
 ln -sf "$(pwd)/activatevpn.bash" ~/.local/bin/activatevpn
 ln -sf "$(pwd)/deactivatevpn.bash" ~/.local/bin/deactivatevpn
+ln -sf "$(pwd)/statusvpn.bash" ~/.local/bin/statusvpn
 ln -sf "$(pwd)/vpn_config.env" ~/.local/bin/vpn_config.env
 ```
 Then the usage becomes
